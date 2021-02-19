@@ -1,0 +1,18 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2021-02-19T17:46:39.331444615+03:00"
+from:
+  id-type: crev
+  id: Cb9lZWK4YhYNt5eFtWWwvm3p1S5HamjXqgWBebGdhm4
+  url: "https://github.com/matklad/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+trust: medium
+comment: |-
+  gotta trust the creator of crev
+----- SIGN CREV PROOF -----
+qgUP57OoewdcvOb_zp7FSimkNAZBmck0y4c_N7TowZJjA6ZraDXl8QlCrz47BlKhFdkZ-hD558C9aq_6hv1jDg
+----- END CREV PROOF -----
+
