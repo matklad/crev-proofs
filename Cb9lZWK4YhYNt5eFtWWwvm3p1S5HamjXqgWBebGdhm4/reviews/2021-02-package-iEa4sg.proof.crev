@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-02-19T17:57:48.831382902+03:00"
+from:
+  id-type: crev
+  id: Cb9lZWK4YhYNt5eFtWWwvm3p1S5HamjXqgWBebGdhm4
+  url: "https://github.com/matklad/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: bytesize
+  version: 1.0.1
+  revision: 19b5e9c81849133b2e29a757e243916d7a94df46
+  digest: 5Rt-jXol7tK8MON9arizlYNme_IjQWXEpHOcou5N8wM
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: strong
+comment: |-
+  Nice a simple crate, the code is really solid
+----- SIGN CREV PROOF -----
+UxKEUGVYNMjwG7cujo8pa_28i2Z7OHuhDJum9MgWHCu4QjDVxsryC6dtm0bXXa64J2__A5R0Wlw34Vf_TnNTDA
+----- END CREV PROOF -----
+
